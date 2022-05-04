@@ -10,6 +10,7 @@
 
 # 명령어 사용
 # cowsay
+# install.packages("cowsay")
 
 a <- 100
 b <- 200
